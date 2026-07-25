@@ -4,7 +4,7 @@ A modern, responsive one-page website built for **NorthPeak Digital**, a fiction
 
 ## 🚀 Live Demo
 
-🔗 Live URL: 
+🔗 Live URL: https://northpeakdigital12.netlify.app/
 
 ## 📂 GitHub Repository
 

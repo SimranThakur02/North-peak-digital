@@ -8,7 +8,7 @@ A modern, responsive one-page website built for **NorthPeak Digital**, a fiction
 
 ## 📂 GitHub Repository
 
-🔗 Repository: 
+🔗 Repository: https://github.com/SimranThakur02/North-peak-digital.git
 
 ---
 
@@ -102,21 +102,13 @@ Performance optimizations include:
 
 ---
 
-## 📸 Screenshots
 
-(Add screenshots of your homepage and Lighthouse reports here.)
-
----
 
 ## 📬 Contact
 
 **Developer:** Simran Thakur
 
-GitHub: (Your GitHub Profile)
-
-LinkedIn: (Your LinkedIn Profile)
-
-Email: (Your Email)
+GitHub: SimranThakur02
 
 ---
 
